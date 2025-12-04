@@ -17,5 +17,5 @@ app.get("/products", async (req, res) => {
   }
 });
 
-const port = 3301;
+const port = 3300;
 app.listen(port, () => console.log(`Vendor A API running at http://localhost:${port}`));
