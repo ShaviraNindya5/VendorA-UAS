@@ -1,0 +1,32 @@
+[
+  {
+    "kd_produk": "A001",
+    "nm_brg": "Kopi Bubuk 100g",
+    "hrg": "15000",
+    "ket_stok": "ada"
+  },
+  {
+    "kd_produk": "A002",
+    "nm_brg": "Teh Celup 50pcs",
+    "hrg": "12000",
+    "ket_stok": "ada"
+  },
+  {
+    "kd_produk": "A003",
+    "nm_brg": "Gula Pasir 1kg",
+    "hrg": "10000",
+    "ket_stok": "habis"
+  },
+  {
+    "kd_produk": "A004",
+    "nm_brg": "Susu Kental Manis 500g",
+    "hrg": "8000",
+    "ket_stok": "ada"
+  },
+  {
+    "kd_produk": "A005",
+    "nm_brg": "Roti Tawar 1 Bungkus",
+    "hrg": "7000",
+    "ket_stok": "ada"
+  }
+]
